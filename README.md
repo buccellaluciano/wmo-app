@@ -12,7 +12,9 @@ El código fuente no se publica acá.
 
 ## Versiones
 
-Todavía no hay ninguna versión publicada en este repositorio. Cuando salga la primera va a aparecer en Releases y el botón de descarga de la página se va a activar solo.
+La última versión está siempre en [Releases](../../releases/latest), con sus notas. La página de descarga apunta sola a la más nueva.
+
+A partir de la 1.3.0 la app se actualiza desde Ajustes › General: avisa cuando hay una versión nueva, muestra las notas y verifica la firma del instalador antes de instalarlo.
 
 ## Comprobar una descarga
 
